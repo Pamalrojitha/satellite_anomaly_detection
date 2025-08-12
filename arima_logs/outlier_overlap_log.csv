@@ -1,0 +1,16 @@
+Satellite,Feature,Outliers_Flagged,Outliers_Overlapping_with_Manoeuvres
+Sentinel-3A,Brouwer mean motion,0,0
+Sentinel-3A,mean anomaly,0,0
+Sentinel-3A,eccentricity,0,0
+Fengyun-2F,Brouwer mean motion,0,0
+Fengyun-2F,mean anomaly,0,0
+Fengyun-2F,eccentricity,3,0
+Fengyun-4A,Brouwer mean motion,0,0
+Fengyun-4A,mean anomaly,0,0
+Fengyun-4A,eccentricity,0,0
+SARAL,Brouwer mean motion,0,0
+SARAL,mean anomaly,0,0
+SARAL,eccentricity,0,0
+Haiyang-2A,Brouwer mean motion,0,0
+Haiyang-2A,mean anomaly,0,0
+Haiyang-2A,eccentricity,0,0
