@@ -19,26 +19,29 @@ satellite_anomaly_detection/
 │   ├── forecasting_arima_tools.py
 │   ├── forecasting_xgb_tools.py
 │   ├── precision_recall_tools.py
+│   ├── combined_pr_plotter.py
 │
 ├── runners/                 # Runner scripts for executing experiments
-│   ├── eda_runner.py
-│   ├── arima_runner.py
-│   ├── xgboost_runner.py
+│   ├── eda_runner.ipynb
+│   ├── forecast_runner_arima.ipynb
+│   ├── XGBoost_Runner.ipynb
+│   ├── combined_pr_plots_runner.ipynb
 │
 ├── satellite_data/          # Compact dataset for reproducibility
 │   ├── orbital_elements/    # CSVs of TLE-derived orbital elements
 │   ├── manoeuvres/          # Original manoeuvre text files
 │
-├── arima_logs/               # Example logs (PR summaries, outlier overlaps)
+├── arima_logs/              # Example logs (PR summaries, outlier overlaps)
 │   ├── pr_summary.csv
 │   ├── outlier_overlap_log.csv
 │
-├── xgb_logs/                 # Example logs (PR summaries, outlier overlaps)
+├── xgb_logs/                # Example logs (PR summaries, outlier overlaps)
 │   ├── pr_summary.csv
 │   ├── outlier_overlap_log.csv
 │
 ├── requirements.txt         # Python dependencies
 └── README.md                # Project documentation
+
 ```
 ---
 
