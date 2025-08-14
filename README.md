@@ -5,8 +5,6 @@ This repository contains the complete implementation of a residual-based forecas
 
 The codebase is fully modular and structured for reproducibility. All essential input data (orbital element CSVs and manoeuvre files) are included to allow inspection and rerunning of experiments. Generated outputs such as figures and intermediate logs are excluded to keep the repository size manageable.
 
-The study and methodology are described in detail in the accompanying report.
-
 ---
 
 ## Repository Structure
